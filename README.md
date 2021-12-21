@@ -4,8 +4,8 @@
 
 🧑🏼‍💻 I am **full stack** developer excited and curious about new opportunities in tech!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-tarika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-tarika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ### Connect with me:
 <a href="https://www.linkedin.com/in/max-tarika/">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
